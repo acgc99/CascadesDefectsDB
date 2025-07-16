@@ -3,6 +3,8 @@ This defects were extracted from MD collisional cascades in Fe at 0 K available 
 - Different interatomic potentials were used.
 - Electronic stopping as frictional force.
 
+Defect identification algorithm from [irradiapy](https://github.com/acgc99/irradiapy/blob/8f69a0b398b336811f71d742d816e5ca909054c4/irradiapy/analysis/defectsfinderold.py) initial release.
+
 ## 3 keV
 - https://cascadesdb.iaea.org/cdbmeta/cdbrecord/56/
 - https://cascadesdb.iaea.org/cdbmeta/cdbrecord/57/
