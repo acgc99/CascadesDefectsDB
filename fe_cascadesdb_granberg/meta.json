@@ -1,0 +1,11 @@
+{
+  "recoil": "Fe",
+  "target": {
+    "Fe": 1.0
+  },
+  "lattice": "bcc",
+  "interatomic_potentials": ["https://doi.org/10.1088/0953-8984/16/27/003"],
+  "electronic_interactions": "SRIM",
+  "doi": "https://doi.org/10.1088/1361-648X/ab0682",
+  "contributors": ["F. Granberg"]
+}

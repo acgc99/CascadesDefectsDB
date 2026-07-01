@@ -1,0 +1,11 @@
+{
+  "recoil": "Fe",
+  "target": {
+    "Fe": 1.0
+  },
+  "lattice": "bcc",
+  "interatomic_potentials": ["https://doi.org/10.1080/14786430310001613264"],
+  "electronic_interactions": "SRIM",
+  "doi": "https://doi.org/10.1038/s41467-018-03415-5",
+  "contributors": ["A. E. Sand"]
+}
